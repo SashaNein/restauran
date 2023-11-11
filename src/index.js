@@ -6,7 +6,7 @@ import renderHome from './modules/home'
 import renderContact from './modules/contact'
 
 
-const content = document.getElementById("content");
+
 const img = new Image(700, 400);
 img.src = Icon;
 
